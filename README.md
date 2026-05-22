@@ -1,1 +1,1 @@
-deve se criar uma pasta chamda out/
+deve se criar uma pasta chamada out/
